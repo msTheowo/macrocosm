@@ -183,6 +183,13 @@
     speechVerb: Arachnid
     speechSounds: Arachnid
     allowedEmotes: [ 'Chitter' ] # had to remove GoblinThroatSinging for macrocosm
+  - type: TooShortForUI
+    blacklist:
+      components:
+      - TooShortForUIBlacklist
+    whitelist:
+      components:
+      - TooShortForUIWhitelist
   - type: MeleeWeapon
     attackRate: 1
     soundHit:
