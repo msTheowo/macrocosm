@@ -117,7 +117,6 @@
   id: MobAnt
   name: Urist McAnt
   components:
-  #- type: StrongAsFuckAnt
   - type: Icon
     sprite: _MACRO/Mobs/Species/Ant/parts.rsi
     state: full
@@ -183,14 +182,7 @@
     speechBubbleOffset: -0.35
     speechVerb: Arachnid
     speechSounds: Arachnid
-    allowedEmotes: [ 'Chitter'] # had to remove GoblinThroatSinging for macrocosm
-  #- type: TooShortForUI # requires allulalo first
-  #  blacklist:
-  #    components:
-  #    - TooShortForUIBlacklist
-  #  whitelist:
-  #    components:
-  #    - TooShortForUIWhitelist
+    allowedEmotes: [ 'Chitter' ] # had to remove GoblinThroatSinging for macrocosm
   - type: MeleeWeapon
     attackRate: 1
     soundHit:
@@ -220,16 +212,12 @@
           Quantity: 5 #5 of ants = 1 of ant
   - type: CanEscapeInventory
     baseResistTime: 2
-  #- type: PleebnarGibbable
-  #- type: VentCrawler
-  #  enterDelay: 1
   - type: Tag
     tags:
     - VimPilot
     - DoorBumpOpener
     - AnomalyHost
     - CanPilot
-    #- MultitoolDefibrillatorTarget
   - type: Hands
     leftHandDisplacement:
       sizeMaps:

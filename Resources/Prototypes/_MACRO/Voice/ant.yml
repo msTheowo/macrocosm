@@ -33,17 +33,11 @@
     Whistle:
       collection: Whistles
     Chitter:
-      path: /Audio/Voice/Arachnid/arachnid_chitter.ogg # was "collection: KodepiiaChitter"
+      path: /Audio/Voice/Arachnid/arachnid_chitter.ogg
     Weh:
       collection: Weh
     Hew:
       collection: Hew
-    #Wuhey:
-    #  collection: Wuhey
-    #Ungh:
-    #  collection: Ungh
-    #GoblinThroatSinging:
-    #  collection: GoblinThroatSingingCollection
     Gasp:
       collection: MaleGasp
     DefaultDeathgasp:
