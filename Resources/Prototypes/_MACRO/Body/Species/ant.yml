@@ -186,10 +186,10 @@
   - type: TooShortForUI
     blacklist:
       components:
-      - TooShortForUIBlacklist
+      - TooShortForUiBlacklist
     whitelist:
       components:
-      - TooShortForUIWhitelist
+      - TooShortForUiWhitelist
   - type: MeleeWeapon
     attackRate: 1
     soundHit:
