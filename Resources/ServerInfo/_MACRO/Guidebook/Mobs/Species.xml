@@ -3,12 +3,6 @@
 
   Nanotrasen employs a variety of sapient species.
   <Box>
-    <GuideEntityEmbed Entity="MobHuman" Caption="Human"/>
-    <GuideEntityEmbed Entity="MobMoth" Caption="Moth Person"/>
-    <GuideEntityEmbed Entity="MobReptilian" Caption="Reptilian"/>
-    <GuideEntityEmbed Entity="MobSlimePerson" Caption="Slime Person"/>
-    <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
-  <Box>
     <!--MACROCOSM: If you enable any extra species, be sure to uncomment them here-->
     <!--
     <GuideEntityEmbed Entity="MobAnt" Caption="Ant"/>
@@ -29,4 +23,11 @@
     <GuideEntityEmbed Entity="MobGray" Caption="Gray"/>
     -->
   </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobHuman" Caption="Human"/>
+    <GuideEntityEmbed Entity="MobMoth" Caption="Moth Person"/>
+    <GuideEntityEmbed Entity="MobReptilian" Caption="Reptilian"/>
+    <GuideEntityEmbed Entity="MobSlimePerson" Caption="Slime Person"/>
+    <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
+  </box>
 </Document>
