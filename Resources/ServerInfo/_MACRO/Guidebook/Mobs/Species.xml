@@ -3,7 +3,9 @@
 
   Nanotrasen employs a variety of sapient species.
 <Box>
-    <!-- MACROCOSM: If you enable any extra species, be sure to uncomment them here-->
+    <!--
+    MACROCOSM: If you enable any extra species, be sure to uncomment them here
+    -->
     <!--
     <GuideEntityEmbed Entity="MobAnt" Caption="Ant"/>
     -->
