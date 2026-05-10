@@ -97,5 +97,7 @@ names-ant-first-dataset-96 = Penitent
 names-ant-first-dataset-97 = Jolly
 names-ant-first-dataset-98 = We're Like
 names-ant-first-dataset-99 = We Are Proud To Present:
+names-ant-first-dataset-100 = Salubrious
+names-ant-first-dataset-101 = Powdered
 
 names-ant-last-dataset-1 = Ant
