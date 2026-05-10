@@ -2,7 +2,7 @@
   id: NamesAntFirst
   values:
     prefix: names-ant-first-dataset-
-    count: 100
+    count: 99
 
 - type: localizedDataset
   id: NamesAntLast
